@@ -1,0 +1,19 @@
+{
+  "ARIMA": {
+    "config": {
+      "order": [
+        1,
+        1,
+        0
+      ]
+    },
+    "validation_wape_pct": 0.35532142181228504
+  },
+  "Prophet": {
+    "config": {
+      "changepoint_prior_scale": 0.05,
+      "yearly_seasonality": true
+    },
+    "validation_wape_pct": 2.422331235849207
+  }
+}

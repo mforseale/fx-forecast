@@ -1,0 +1,7 @@
+{
+  "url": "https://www.cbr.ru/scripts/XML_dynamic.asp?date_req1=01%2F01%2F2018&date_req2=31%2F12%2F2025&VAL_NM_RQ=R01235",
+  "currency": "USD/RUB",
+  "source": "Bank of Russia",
+  "retrieved_at_utc": "2026-10-28T09:55:05.898886+00:00",
+  "sha256": "308b37023347db2478c2493377181a318e22f81afb269acd2f1930d5eb8b4bc1"
+}

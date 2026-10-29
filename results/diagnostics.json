@@ -1,0 +1,15 @@
+{
+  "training_observations": 1793,
+  "training_end": "2025-04-12",
+  "adf_level": {
+    "statistic": -2.1245104691353567,
+    "pvalue": 0.23477370430699562,
+    "lags": 23
+  },
+  "adf_first_difference": {
+    "statistic": -8.172850459102836,
+    "pvalue": 8.53033102055149e-13,
+    "lags": 25
+  },
+  "jumps_above_3std_kept": 35
+}

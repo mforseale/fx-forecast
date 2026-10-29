@@ -1,0 +1,10 @@
+{
+  "window": 750,
+  "horizon_observations": 1,
+  "validation_step": 5,
+  "validation_size": 60,
+  "test_size": 120,
+  "source_sha256": "308b37023347db2478c2493377181a318e22f81afb269acd2f1930d5eb8b4bc1",
+  "random_seed": 42,
+  "completed_at_utc": "2026-10-28T09:56:06.730157+00:00"
+}
